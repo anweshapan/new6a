@@ -1,2 +1,2 @@
-plot(weight, col="red")
+plot(weight, type = "p", col="red")
 plot(age)
